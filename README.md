@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abraham</h1>
+
 <h3 align="center">Desarrollador y soñador digital, llevando ideas desde la imaginación hasta la ejecución.</h3>
+
 - 🌱 I’m currently learning **A bit of everything**
+
 - 💬 Ask me about **Say anything, and I will try to help you as much as I can.**
+  
 - 📫 How to reach me **abraham.rr.contacto@gmail.com**
 
 <div> <a href="https://www.linkedin.com/in/Abraham Rajo Rodriguez" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
